@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import TodoItem from './TodoItem'
-import './app.css'
+import './App.css'
 
 const App = () => {
   const [inputVlaue,setInputValue] = useState("")
